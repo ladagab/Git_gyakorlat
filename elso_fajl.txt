@@ -1,1 +1,2 @@
 Ez az első gyakorlófájlom
+Ez a Git_03 gyakorló módosítása
