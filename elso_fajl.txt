@@ -3,3 +3,4 @@ Ezt a sort a két ág változatából egyesítettem.
 Ezt a sort az uj-szoveg ágon írtam.
 Ezt a sort a GitHub-kapcsolat kipróbálásához írtam.
 Ezt a sort a Git_09 leckében írtam.
+Ezt a sort közvetlenül a GitHubon írtam.
