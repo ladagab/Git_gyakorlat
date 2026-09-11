@@ -1,1 +1,2 @@
 Ezt a fájlt a klónozott projektben készítettem.
+Ezt a sort már az eredeti projektben írtam.
